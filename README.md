@@ -25,11 +25,10 @@ Clone the Repository
 
 # Packages Used
 
-Realm
-Firebase ()
-KeyChainAccess
-Lottie-sm
-IQKeyboard Manager
+1. [Realm](#)
+2. [KeyChainAccess](#)
+3. [Lottie-sm](#)
+4. [IQKeyboard Manager](#)
 
 
 # Guideline
@@ -42,8 +41,6 @@ Users can register on the platform
 # Pictures for Reference
 
 <img src="https://github.com/ostilo/IOS-TEST/blob/main/WhatsApp%20Image%202023-11-17%20at%208.46.48%20PM.jpeg" width="250" height="500" />
-<img src="https://github.com/ostilo/IOS-TEST/blob/main/WhatsApp%20Image%202023-11-17%20at%208.46.49%20PM.jpeg" width="250" height="500" />
-
 <img src="https://github.com/ostilo/IOS-TEST/blob/main/WhatsApp%20Image%202023-11-17%20at%208.46.47%20PM.jpeg" width="250" height="500" />
 <img src="https://github.com/ostilo/IOS-TEST/blob/main/WhatsApp%20Image%202023-11-17%20at%208.46.46%20PM%20(1).jpeg" width="250" height="500" />
 <img src="https://github.com/ostilo/IOS-TEST/blob/main/WhatsApp%20Image%202023-11-17%20at%208.46.46%20PM%20(2).jpeg" width="250" height="500" />
