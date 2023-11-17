@@ -4,20 +4,17 @@ IOS (SWIFT) TEST AT CAPRICON DIGITAL
 # Architecture
 MVC
 
-Features
-Login Page that takes in Email and Password
-Registration Page that takes in Email, Password, and Fullname
-A Drawer Navigation Bar, with Menu and a Post Screen
-RealmSwift Database
-Team Screen
-Minimum Deployment Target - Android 5
-
-Xcode, Swift 5.
+# Features
+1. [Login Page that takes in Email and Password](#)
+2. [Registration Page that takes in Email, Password, and Fullname](#)
+3. [A Drawer Navigation Bar, with Menu and a Post Screen](#)
+4. [Local Storage Database](#)
+5. [Xcode, Swift 5](#)
 
 # Usage
 Clone the repository:
 
-git clone https://github.com/ostilo/IOS-TEST.git
+# git clone https://github.com/ostilo/IOS-TEST.git
 
  
 Getting Started
