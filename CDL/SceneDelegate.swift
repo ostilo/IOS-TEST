@@ -6,9 +6,21 @@
 //
 
 import UIKit
+import Firebase
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
+    @objc func networkStatusChanged(_ notification: Notification) {
+            if let userInfo = notification.userInfo {
+                let status = userInfo["Status"] as! String
+                if(status.lowercased().contains("offline")){
+                    window?.rootViewController?.showDismissableAlert(title: "Internet", msg: "Kindly check your Internet Connection..")
+                }
+                print(status)
+            }
+        }
+    
+    
     var window: UIWindow?
 
 
@@ -16,7 +28,30 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         // Use this method to optionally configure and attach the UIWindow `window` to the provided UIWindowScene `scene`.
         // If using a storyboard, the `window` property will automatically be initialized and attached to the scene.
         // This delegate does not imply the connecting scene or session are new (see `application:configurationForConnectingSceneSession` instead).
-        guard let _ = (scene as? UIWindowScene) else { return }
+        guard let windowScene = (scene as? UIWindowScene) else { return }
+    
+        window = UIWindow(frame: windowScene.coordinateSpace.bounds)
+        window?.windowScene = windowScene
+        
+        
+        if Auth.auth().currentUser != nil {
+          // User is signed in.
+            let controller = ContainerViewController()
+            controller.modalPresentationStyle = .fullScreen
+            controller.modalTransitionStyle = .flipHorizontal
+            window?.rootViewController = controller
+            window?.makeKeyAndVisible()
+        } else {
+          // No user is signed in.
+          // ...
+            var rootViewController =  UINavigationController(rootViewController: LoginViewController())
+            rootViewController.navigationBar.isHidden = true
+            window?.rootViewController = rootViewController
+            window?.makeKeyAndVisible()
+        }
+        NotificationCenter.default.addObserver(self, selector: #selector(networkStatusChanged(_:)), name: Notification.Name(rawValue: ReachabilityStatusChangedNotification), object: nil)
+        Reach().monitorReachabilityChanges()
+        
     }
 
     func sceneDidDisconnect(_ scene: UIScene) {

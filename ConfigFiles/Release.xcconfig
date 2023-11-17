@@ -1,0 +1,16 @@
+//
+//  Release.xcconfig
+//  CDL
+//
+//  Created by Mac on 16/11/2023.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+APP_NAME = CDL
+PRODUCT_BUNDLE_IDENTIFIER = baxiiosdspreadpos.CDL
+
+//posts
+CDL_POST_API_BASE_URL = https:/$()/jsonplaceholder.typicode.com
+ENVIRONMENT_IS = release

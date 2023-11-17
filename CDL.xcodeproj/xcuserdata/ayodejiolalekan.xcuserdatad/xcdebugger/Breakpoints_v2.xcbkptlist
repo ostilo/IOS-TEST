@@ -1,0 +1,833 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0750177E-5C46-4E4C-87E3-3F7DDA9227C0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "13730A12-9774-40D9-9A55-66683528D890"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CDL/UI/SignUp/SignupViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "attemptRegister()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "13730A12-9774-40D9-9A55-66683528D890 - 4bf66c13bf966a83"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in attemptRegister() -&gt; ()"
+                  moduleName = "CDL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayodejiolalekan/CDL/CDL/CDL/UI/SignUp/SignupViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "368">
+               </Location>
+               <Location
+                  uuid = "13730A12-9774-40D9-9A55-66683528D890 - 4bf66c13bf966a83"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in attemptRegister() -&gt; ()"
+                  moduleName = "CDL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayodejiolalekan/CDL/CDL/CDL/UI/SignUp/SignupViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "13730A12-9774-40D9-9A55-66683528D890 - 4bf66c13bf966a83"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in attemptRegister() -&gt; ()"
+                  moduleName = "CDL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayodejiolalekan/CDL/CDL/CDL/UI/SignUp/SignupViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "55330146-07A4-4B76-B93F-ECE5A88DEA2B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CDL/Core/Utils/NavigationExtensions.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "navigateToSignup()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "55330146-07A4-4B76-B93F-ECE5A88DEA2B - 47e6a2d73ae8f255"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__C.UIViewController.navigateToSignup() -&gt; ()"
+                  moduleName = "CDL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayodejiolalekan/CDL/CDL/CDL/Core/Utils/NavigationExtensions.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "55330146-07A4-4B76-B93F-ECE5A88DEA2B - 9df31eed930427d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; CDL.SignupViewController in __C.UIViewController.navigateToSignup() -&gt; ()"
+                  moduleName = "CDL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayodejiolalekan/CDL/CDL/CDL/Core/Utils/NavigationExtensions.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "231C5F1D-9EB6-478D-A77D-6F8FD3FC7CFA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CDL/Core/Utils/NavigationExtensions.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "navigateToSignup()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6825FC28-E24F-481E-8F3E-C53C03E17F8E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CDL/Core/Utils/NavigationExtensions.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "navigateOrGoBackTo(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "420535F8-EA87-4B70-BB24-AF197B68C9C9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CDL/Core/Utils/NavigationExtensions.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "navigateTo(_:shouldFade:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "15A7CFC8-0909-4A48-B826-1402F752855C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CDL/UI/SignUp/SignupViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "attemptRegister()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "15A7CFC8-0909-4A48-B826-1402F752855C - f8ea11a8c16c2f78"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in attemptRegister() -&gt; ()"
+                  moduleName = "CDL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayodejiolalekan/CDL/CDL/CDL/UI/SignUp/SignupViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "99"
+                  endingLineNumber = "99"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "15A7CFC8-0909-4A48-B826-1402F752855C - f8ea11a8c16c2f78"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in attemptRegister() -&gt; ()"
+                  moduleName = "CDL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayodejiolalekan/CDL/CDL/CDL/UI/SignUp/SignupViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "99"
+                  endingLineNumber = "99"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "15A7CFC8-0909-4A48-B826-1402F752855C - f8ea11a8c16c2f78"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in attemptRegister() -&gt; ()"
+                  moduleName = "CDL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayodejiolalekan/CDL/CDL/CDL/UI/SignUp/SignupViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "99"
+                  endingLineNumber = "99"
+                  offsetFromSymbolStart = "100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C6E17471-3A70-496A-A921-117B348C6C54"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CDL/UI/SignUp/SignupViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
+            landmarkName = "attemptRegister()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "C6E17471-3A70-496A-A921-117B348C6C54 - 4bf66c13bf966f56"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in attemptRegister() -&gt; ()"
+                  moduleName = "CDL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayodejiolalekan/CDL/CDL/CDL/UI/SignUp/SignupViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "1628">
+               </Location>
+               <Location
+                  uuid = "C6E17471-3A70-496A-A921-117B348C6C54 - f8ea11a8c16c2800"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in attemptRegister() -&gt; ()"
+                  moduleName = "CDL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayodejiolalekan/CDL/CDL/CDL/UI/SignUp/SignupViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "656">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AF208763-A209-48BB-8619-CEDF7E0099C2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CDL/UI/Login/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "129"
+            endingLineNumber = "129"
+            landmarkName = "attemptLogin()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AF208763-A209-48BB-8619-CEDF7E0099C2 - 509c117a8fe6460b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in CDL.LoginViewController.attemptLogin() -&gt; ()"
+                  moduleName = "CDL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayodejiolalekan/CDL/CDL/CDL/UI/Login/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "184">
+               </Location>
+               <Location
+                  uuid = "AF208763-A209-48BB-8619-CEDF7E0099C2 - 509c117a8fe6460b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in CDL.LoginViewController.attemptLogin() -&gt; ()"
+                  moduleName = "CDL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayodejiolalekan/CDL/CDL/CDL/UI/Login/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "AF208763-A209-48BB-8619-CEDF7E0099C2 - 509c117a8fe646d4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in CDL.LoginViewController.attemptLogin() -&gt; ()"
+                  moduleName = "CDL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayodejiolalekan/CDL/CDL/CDL/UI/Login/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "131"
+                  endingLineNumber = "131"
+                  offsetFromSymbolStart = "196">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "01E0DBE3-9E35-4830-BE69-7E2B2608F8DC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CDL/UI/Login/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110"
+            landmarkName = "attemptLogin()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "01E0DBE3-9E35-4830-BE69-7E2B2608F8DC - 2ab32f4a21b69a15"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CDL.LoginViewController.attemptLogin() -&gt; ()"
+                  moduleName = "CDL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayodejiolalekan/CDL/CDL/CDL/UI/Login/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "110"
+                  endingLineNumber = "110"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "01E0DBE3-9E35-4830-BE69-7E2B2608F8DC - 2ab32f4a21b69a32"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CDL.LoginViewController.attemptLogin() -&gt; ()"
+                  moduleName = "CDL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayodejiolalekan/CDL/CDL/CDL/UI/Login/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "111"
+                  endingLineNumber = "111"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "724EF175-EE2F-4E8A-AA7B-A21291EADC22"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CDL/UI/Login/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "125"
+            endingLineNumber = "125"
+            landmarkName = "attemptLogin()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "724EF175-EE2F-4E8A-AA7B-A21291EADC22 - 2ab32f4a21b6a405"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CDL.LoginViewController.attemptLogin() -&gt; ()"
+                  moduleName = "CDL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayodejiolalekan/CDL/CDL/CDL/UI/Login/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "126"
+                  endingLineNumber = "126"
+                  offsetFromSymbolStart = "728">
+               </Location>
+               <Location
+                  uuid = "724EF175-EE2F-4E8A-AA7B-A21291EADC22 - 2ab32f4a21b6a422"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CDL.LoginViewController.attemptLogin() -&gt; ()"
+                  moduleName = "CDL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayodejiolalekan/CDL/CDL/CDL/UI/Login/LoginViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "127"
+                  endingLineNumber = "127"
+                  offsetFromSymbolStart = "908">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "27F53D14-FC20-45B5-91C4-9B2FBB5837D0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CDL/UI/Login/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "127"
+            endingLineNumber = "127"
+            landmarkName = "attemptLogin()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4E647216-260A-4489-8213-AFB58C88F1F1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CDL/UI/Post/SideMenu/ContainerViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "toggleMenu(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "02751EB9-109E-4A32-8BFC-E6A9CD0D62A3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CDL/Core/Network/PostRemote.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "getPostData(runCompletionOnUIThread:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "02751EB9-109E-4A32-8BFC-E6A9CD0D62A3 - 8d6fd88cbfd4bc5f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;CDL.GetPostResponse&gt;, Swift.Error&gt;) -&gt; () in CDL.PostRemote.getPostData(runCompletionOnUIThread: Swift.Bool, completion: (Swift.Result&lt;Swift.Array&lt;CDL.GetPostResponse&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CDL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayodejiolalekan/CDL/CDL/CDL/Core/Network/PostRemote.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "02751EB9-109E-4A32-8BFC-E6A9CD0D62A3 - 8d6fd88cbfd4bbf4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;CDL.GetPostResponse&gt;, Swift.Error&gt;) -&gt; () in CDL.PostRemote.getPostData(runCompletionOnUIThread: Swift.Bool, completion: (Swift.Result&lt;Swift.Array&lt;CDL.GetPostResponse&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CDL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayodejiolalekan/CDL/CDL/CDL/Core/Network/PostRemote.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "312">
+               </Location>
+               <Location
+                  uuid = "02751EB9-109E-4A32-8BFC-E6A9CD0D62A3 - 8d6fd88cbfd4bbf4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;CDL.GetPostResponse&gt;, Swift.Error&gt;) -&gt; () in CDL.PostRemote.getPostData(runCompletionOnUIThread: Swift.Bool, completion: (Swift.Result&lt;Swift.Array&lt;CDL.GetPostResponse&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CDL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayodejiolalekan/CDL/CDL/CDL/Core/Network/PostRemote.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "304">
+               </Location>
+               <Location
+                  uuid = "02751EB9-109E-4A32-8BFC-E6A9CD0D62A3 - 8d6fd88cbfd4bbf4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;CDL.GetPostResponse&gt;, Swift.Error&gt;) -&gt; () in CDL.PostRemote.getPostData(runCompletionOnUIThread: Swift.Bool, completion: (Swift.Result&lt;Swift.Array&lt;CDL.GetPostResponse&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CDL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayodejiolalekan/CDL/CDL/CDL/Core/Network/PostRemote.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "02751EB9-109E-4A32-8BFC-E6A9CD0D62A3 - 8d6fd88cbfd4bbf4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;CDL.GetPostResponse&gt;, Swift.Error&gt;) -&gt; () in CDL.PostRemote.getPostData(runCompletionOnUIThread: Swift.Bool, completion: (Swift.Result&lt;Swift.Array&lt;CDL.GetPostResponse&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CDL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayodejiolalekan/CDL/CDL/CDL/Core/Network/PostRemote.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "196">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "23BAC0F8-255D-4768-BF91-3E8D677AC92E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CDL/Core/Network/PostRemote.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "getPostData(runCompletionOnUIThread:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "23BAC0F8-255D-4768-BF91-3E8D677AC92E - 8d6fd88cbfd4bb70"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;CDL.GetPostResponse&gt;, Swift.Error&gt;) -&gt; () in CDL.PostRemote.getPostData(runCompletionOnUIThread: Swift.Bool, completion: (Swift.Result&lt;Swift.Array&lt;CDL.GetPostResponse&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CDL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayodejiolalekan/CDL/CDL/CDL/Core/Network/PostRemote.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "364">
+               </Location>
+               <Location
+                  uuid = "23BAC0F8-255D-4768-BF91-3E8D677AC92E - 8d6fd88cbfd4bb70"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;CDL.GetPostResponse&gt;, Swift.Error&gt;) -&gt; () in CDL.PostRemote.getPostData(runCompletionOnUIThread: Swift.Bool, completion: (Swift.Result&lt;Swift.Array&lt;CDL.GetPostResponse&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CDL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayodejiolalekan/CDL/CDL/CDL/Core/Network/PostRemote.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "652">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3B8CB82A-23E4-48EA-8A97-6DE233405CA2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CDL/Core/Network/PostRemote.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "getPostData(runCompletionOnUIThread:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3B8CB82A-23E4-48EA-8A97-6DE233405CA2 - 8d6fd88cbfd4bb57"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;CDL.GetPostResponse&gt;, Swift.Error&gt;) -&gt; () in CDL.PostRemote.getPostData(runCompletionOnUIThread: Swift.Bool, completion: (Swift.Result&lt;Swift.Array&lt;CDL.GetPostResponse&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CDL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayodejiolalekan/CDL/CDL/CDL/Core/Network/PostRemote.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "2248">
+               </Location>
+               <Location
+                  uuid = "3B8CB82A-23E4-48EA-8A97-6DE233405CA2 - 8d6fd88cbfd4bb57"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;CDL.GetPostResponse&gt;, Swift.Error&gt;) -&gt; () in CDL.PostRemote.getPostData(runCompletionOnUIThread: Swift.Bool, completion: (Swift.Result&lt;Swift.Array&lt;CDL.GetPostResponse&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CDL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayodejiolalekan/CDL/CDL/CDL/Core/Network/PostRemote.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "444">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CD176525-08D1-436D-B52D-8FAF9C9DDE9D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CDL/Core/Network/PostRemote.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "getPostData(runCompletionOnUIThread:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CD176525-08D1-436D-B52D-8FAF9C9DDE9D - 8d6fd88cbfd4ba0d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;CDL.GetPostResponse&gt;, Swift.Error&gt;) -&gt; () in CDL.PostRemote.getPostData(runCompletionOnUIThread: Swift.Bool, completion: (Swift.Result&lt;Swift.Array&lt;CDL.GetPostResponse&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CDL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayodejiolalekan/CDL/CDL/CDL/Core/Network/PostRemote.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "1000">
+               </Location>
+               <Location
+                  uuid = "CD176525-08D1-436D-B52D-8FAF9C9DDE9D - 8d6fd88cbfd4ba0d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;CDL.GetPostResponse&gt;, Swift.Error&gt;) -&gt; () in CDL.PostRemote.getPostData(runCompletionOnUIThread: Swift.Bool, completion: (Swift.Result&lt;Swift.Array&lt;CDL.GetPostResponse&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CDL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayodejiolalekan/CDL/CDL/CDL/Core/Network/PostRemote.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "1208">
+               </Location>
+               <Location
+                  uuid = "CD176525-08D1-436D-B52D-8FAF9C9DDE9D - 8d6fd88cbfd4ba0d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;CDL.GetPostResponse&gt;, Swift.Error&gt;) -&gt; () in CDL.PostRemote.getPostData(runCompletionOnUIThread: Swift.Bool, completion: (Swift.Result&lt;Swift.Array&lt;CDL.GetPostResponse&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CDL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayodejiolalekan/CDL/CDL/CDL/Core/Network/PostRemote.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "1216">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EFCF7407-52FB-4BB9-AF65-03D696993FF5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CDL/SceneDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "scene(_:willConnectTo:options:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EFCF7407-52FB-4BB9-AF65-03D696993FF5 - c101b1d5092371ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CDL.SceneDelegate.scene(_: __C.UIScene, willConnectTo: __C.UISceneSession, options: __C.UISceneConnectionOptions) -&gt; ()"
+                  moduleName = "CDL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayodejiolalekan/CDL/CDL/CDL/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "584">
+               </Location>
+               <Location
+                  uuid = "EFCF7407-52FB-4BB9-AF65-03D696993FF5 - c101b1d50923718c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CDL.SceneDelegate.scene(_: __C.UIScene, willConnectTo: __C.UISceneSession, options: __C.UISceneConnectionOptions) -&gt; ()"
+                  moduleName = "CDL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayodejiolalekan/CDL/CDL/CDL/SceneDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "592">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BFC0E1F0-8BF3-450E-B146-27459A04F272"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CDL/Core/Network/PostRemote.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "getPostData(runCompletionOnUIThread:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BFC0E1F0-8BF3-450E-B146-27459A04F272 - 8d6fd88cbfd4ba91"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;CDL.GetPostResponse&gt;, Swift.Error&gt;) -&gt; () in CDL.PostRemote.getPostData(runCompletionOnUIThread: Swift.Bool, completion: (Swift.Result&lt;Swift.Array&lt;CDL.GetPostResponse&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CDL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayodejiolalekan/CDL/CDL/CDL/Core/Network/PostRemote.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "824">
+               </Location>
+               <Location
+                  uuid = "BFC0E1F0-8BF3-450E-B146-27459A04F272 - a7d8d2ed03c1c8c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Result&lt;Swift.Array&lt;CDL.GetPostResponse&gt;, Swift.Error&gt;) -&gt; () in CDL.PostRemote.getPostData(runCompletionOnUIThread: Swift.Bool, completion: (Swift.Result&lt;Swift.Array&lt;CDL.GetPostResponse&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CDL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayodejiolalekan/CDL/CDL/CDL/Core/Network/PostRemote.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6001C1FD-F3D2-49BF-A9BB-1675CC07E968"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CDL/UI/Post/SideMenu/ContainerViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "attemptToLogUserOut()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
