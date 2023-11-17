@@ -29,11 +29,12 @@ Clone the Repository
 
 
 # Guideline
+1. [The project has been structured in a way that accomodates for any furture updates.](#)
+2. [The develop branch houses the most recent update.](#)
+3. [Firebase Project Created in-order to have access to some functionality.](#)
+4. [Users can register on the platform](#)
+5. [The connectivity checker, can also check for when the users network isn't strong, and cautions on whether to proceed to an action.](#)
 
-The project has been structured in a way that accomodates for any furture updates.
-The develop branch houses the most recent update
-Firebase Project Created in-order to have access to some functionality.
-Users can register on the platform
 
 # Pictures for Reference
 
