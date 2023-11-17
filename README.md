@@ -40,7 +40,9 @@ Firebase Project Created in-order to have access to some functionality.
 Users can register on the platform
 
 # Pictures for Reference
-<img src="https://github.com/ostilo/IOS-TEST/raw/master/WhatsApp Image 2023-11-17 at 8.46.41 PM (1).jpeg" width="250" height="500" />
+
+
+<img src="https://github.com/ostilo/IOS-TEST/blob/main/WhatsApp%20Image%202023-11-17%20at%208.46.41%20PM%20(1).jpeg" width="250" height="500" />
 
 
 
