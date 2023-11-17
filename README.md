@@ -47,7 +47,6 @@ Users can register on the platform
 <img src="https://github.com/ostilo/IOS-TEST/blob/main/WhatsApp%20Image%202023-11-17%20at%208.46.47%20PM.jpeg" width="250" height="500" />
 <img src="https://github.com/ostilo/IOS-TEST/blob/main/WhatsApp%20Image%202023-11-17%20at%208.46.46%20PM%20(1).jpeg" width="250" height="500" />
 <img src="https://github.com/ostilo/IOS-TEST/blob/main/WhatsApp%20Image%202023-11-17%20at%208.46.46%20PM%20(2).jpeg" width="250" height="500" />
-<img src="https://github.com/ostilo/IOS-TEST/blob/main/WhatsApp%20Image%202023-11-17%20at%208.46.46%20PM%20(2).jpeg" width="250" height="500" />
 
 
 
