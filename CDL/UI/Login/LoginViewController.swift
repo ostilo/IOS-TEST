@@ -143,7 +143,7 @@ class LoginViewController: TABackViewController{
                 return
             }
             else{
-                guard let user = authResult?.user else {
+                guard (authResult?.user) != nil else {
                     self.throwGenericError(retryAction: self.attemptLogin)
                     return
                 }

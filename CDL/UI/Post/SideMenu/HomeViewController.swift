@@ -42,6 +42,8 @@ class HomeViewController: UIViewController {
         
         navigationController?.navigationBar.barStyle = .default
         navigationController?.navigationBar.titleTextAttributes = [NSAttributedString.Key.foregroundColor: UIColor.black]
+        navigationController?.navigationBar.barTintColor = .baseBlack()
+
         
         view.backgroundColor = .additionals1()
         title = "Home"

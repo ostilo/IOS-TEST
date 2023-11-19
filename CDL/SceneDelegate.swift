@@ -34,21 +34,10 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         window?.windowScene = windowScene
         
         
-        if Auth.auth().currentUser != nil {
-          // User is signed in.
-            let controller = ContainerViewController()
-            controller.modalPresentationStyle = .fullScreen
-            controller.modalTransitionStyle = .flipHorizontal
-            window?.rootViewController = controller
-            window?.makeKeyAndVisible()
-        } else {
-          // No user is signed in.
-          // ...
-            var rootViewController =  UINavigationController(rootViewController: LoginViewController())
-            rootViewController.navigationBar.isHidden = true
-            window?.rootViewController = rootViewController
-            window?.makeKeyAndVisible()
-        }
+        let rootViewController =  UINavigationController(rootViewController: LoginViewController())
+        rootViewController.navigationBar.isHidden = true
+        window?.rootViewController = rootViewController
+        window?.makeKeyAndVisible()
         NotificationCenter.default.addObserver(self, selector: #selector(networkStatusChanged(_:)), name: Notification.Name(rawValue: ReachabilityStatusChangedNotification), object: nil)
         Reach().monitorReachabilityChanges()
         

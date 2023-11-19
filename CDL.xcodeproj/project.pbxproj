@@ -10,8 +10,6 @@
 		5C099BFD2B06A6B800FAA7D1 /* EnvironmentIdentifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C099BFC2B06A6B800FAA7D1 /* EnvironmentIdentifier.swift */; };
 		5C099BFF2B06A6F900FAA7D1 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5C099BFE2B06A6F900FAA7D1 /* GoogleService-Info.plist */; };
 		5C099C012B06A88500FAA7D1 /* Release.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 5C099C002B06A88500FAA7D1 /* Release.xcconfig */; };
-		5C099C072B06AC7400FAA7D1 /* KeychainAccess in Frameworks */ = {isa = PBXBuildFile; productRef = 5C099C062B06AC7400FAA7D1 /* KeychainAccess */; };
-		5C099C092B06AC7900FAA7D1 /* IQKeyboardManagerSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 5C099C082B06AC7900FAA7D1 /* IQKeyboardManagerSwift */; };
 		5C099C0D2B06AD1000FAA7D1 /* Config.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C099C0C2B06AD1000FAA7D1 /* Config.swift */; };
 		5C099C0F2B06ADDC00FAA7D1 /* NavigationExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C099C0E2B06ADDC00FAA7D1 /* NavigationExtensions.swift */; };
 		5C099C122B06AE4400FAA7D1 /* UserDefaults+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C099C112B06AE4400FAA7D1 /* UserDefaults+Extensions.swift */; };
@@ -35,7 +33,6 @@
 		5C099C432B06BE8000FAA7D1 /* String+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C099C422B06BE8000FAA7D1 /* String+Extensions.swift */; };
 		5C099C452B06BF3300FAA7D1 /*  UIStackView+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C099C442B06BF3300FAA7D1 /*  UIStackView+Extensions.swift */; };
 		5C099C482B06C2DE00FAA7D1 /* TAProgressHUD.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C099C472B06C2DE00FAA7D1 /* TAProgressHUD.swift */; };
-		5C099C4B2B06C38600FAA7D1 /* Lottie in Frameworks */ = {isa = PBXBuildFile; productRef = 5C099C4A2B06C38600FAA7D1 /* Lottie */; };
 		5C099C4D2B06C3BA00FAA7D1 /* CdlLoader.json in Resources */ = {isa = PBXBuildFile; fileRef = 5C099C4C2B06C3BA00FAA7D1 /* CdlLoader.json */; };
 		5C099C4F2B06C61F00FAA7D1 /* ProgressHUD.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C099C4E2B06C61F00FAA7D1 /* ProgressHUD.swift */; };
 		5C099C512B06C79500FAA7D1 /* UIViewController+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C099C502B06C79500FAA7D1 /* UIViewController+Extensions.swift */; };
@@ -74,14 +71,15 @@
 		5CB1877A2B078AC500265F79 /* NetworkService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CB187792B078AC500265F79 /* NetworkService.swift */; };
 		5CB1877F2B07C80B00265F79 /* RealmSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 5CB1877E2B07C80B00265F79 /* RealmSwift */; };
 		5CB187812B07C90200265F79 /* Realm in Frameworks */ = {isa = PBXBuildFile; productRef = 5CB187802B07C90200265F79 /* Realm */; };
+		5CFFAEBC2B0A87B700B1A494 /* Lottie in Frameworks */ = {isa = PBXBuildFile; productRef = 5CFFAEBB2B0A87B700B1A494 /* Lottie */; };
+		5CFFAEBF2B0A885400B1A494 /* IQKeyboardManagerSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 5CFFAEBE2B0A885400B1A494 /* IQKeyboardManagerSwift */; };
+		5CFFAEC22B0A88E900B1A494 /* KeychainAccess in Frameworks */ = {isa = PBXBuildFile; productRef = 5CFFAEC12B0A88E900B1A494 /* KeychainAccess */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		5C099BFC2B06A6B800FAA7D1 /* EnvironmentIdentifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnvironmentIdentifier.swift; sourceTree = "<group>"; };
 		5C099BFE2B06A6F900FAA7D1 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		5C099C002B06A88500FAA7D1 /* Release.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = Release.xcconfig; sourceTree = "<group>"; };
-		5C099C032B06ABCF00FAA7D1 /* IQKeyboardManager */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = IQKeyboardManager; path = ../../Downloads/IQKeyboardManager; sourceTree = "<group>"; };
-		5C099C042B06ABF200FAA7D1 /* KeychainAccess */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = KeychainAccess; path = ../../Downloads/KeychainAccess; sourceTree = "<group>"; };
 		5C099C0C2B06AD1000FAA7D1 /* Config.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Config.swift; sourceTree = "<group>"; };
 		5C099C0E2B06ADDC00FAA7D1 /* NavigationExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationExtensions.swift; sourceTree = "<group>"; };
 		5C099C112B06AE4400FAA7D1 /* UserDefaults+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UserDefaults+Extensions.swift"; sourceTree = "<group>"; };
@@ -107,7 +105,6 @@
 		5C099C422B06BE8000FAA7D1 /* String+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String+Extensions.swift"; sourceTree = "<group>"; };
 		5C099C442B06BF3300FAA7D1 /*  UIStackView+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = " UIStackView+Extensions.swift"; sourceTree = "<group>"; };
 		5C099C472B06C2DE00FAA7D1 /* TAProgressHUD.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TAProgressHUD.swift; sourceTree = "<group>"; };
-		5C099C492B06C30A00FAA7D1 /* lottie-spm */ = {isa = PBXFileReference; lastKnownFileType = wrapper; name = "lottie-spm"; path = "../../Downloads/lottie-spm"; sourceTree = "<group>"; };
 		5C099C4C2B06C3BA00FAA7D1 /* CdlLoader.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = CdlLoader.json; sourceTree = "<group>"; };
 		5C099C4E2B06C61F00FAA7D1 /* ProgressHUD.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressHUD.swift; sourceTree = "<group>"; };
 		5C099C502B06C79500FAA7D1 /* UIViewController+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIViewController+Extensions.swift"; sourceTree = "<group>"; };
@@ -140,21 +137,21 @@
 				5C4FD1EC2B06A5A9000C39E7 /* FirebaseDatabaseSwift in Frameworks */,
 				5C4FD1FA2B06A5AA000C39E7 /* FirebaseInstallations in Frameworks */,
 				5C4FD1EA2B06A5A9000C39E7 /* FirebaseDatabase in Frameworks */,
-				5C099C072B06AC7400FAA7D1 /* KeychainAccess in Frameworks */,
+				5CFFAEC22B0A88E900B1A494 /* KeychainAccess in Frameworks */,
 				5C4FD1E02B06A5A9000C39E7 /* FirebaseAppCheck in Frameworks */,
 				5C4FD1F62B06A5A9000C39E7 /* FirebaseFunctions in Frameworks */,
 				5C4FD2042B06A5AA000C39E7 /* FirebaseStorageCombine-Community in Frameworks */,
 				5CB1877F2B07C80B00265F79 /* RealmSwift in Frameworks */,
+				5CFFAEBF2B0A885400B1A494 /* IQKeyboardManagerSwift in Frameworks */,
 				5C4FD1F22B06A5A9000C39E7 /* FirebaseFirestoreCombine-Community in Frameworks */,
 				5C4FD1EE2B06A5A9000C39E7 /* FirebaseDynamicLinks in Frameworks */,
 				5C4FD1F42B06A5A9000C39E7 /* FirebaseFirestoreSwift in Frameworks */,
 				5C4FD2002B06A5AA000C39E7 /* FirebasePerformance in Frameworks */,
 				5C4FD1E42B06A5A9000C39E7 /* FirebaseAuth in Frameworks */,
 				5C4FD2022B06A5AA000C39E7 /* FirebaseStorage in Frameworks */,
-				5C099C092B06AC7900FAA7D1 /* IQKeyboardManagerSwift in Frameworks */,
 				5C4FD1F82B06A5A9000C39E7 /* FirebaseFunctionsCombine-Community in Frameworks */,
+				5CFFAEBC2B0A87B700B1A494 /* Lottie in Frameworks */,
 				5C4FD1F02B06A5A9000C39E7 /* FirebaseFirestore in Frameworks */,
-				5C099C4B2B06C38600FAA7D1 /* Lottie in Frameworks */,
 				5C4FD1FC2B06A5AA000C39E7 /* FirebaseMLModelDownloader in Frameworks */,
 				5C4FD1E22B06A5A9000C39E7 /* FirebaseAppDistribution-Beta in Frameworks */,
 				5C4FD1E62B06A5A9000C39E7 /* FirebaseAuthCombine-Community in Frameworks */,
@@ -172,16 +169,6 @@
 				5C099BFC2B06A6B800FAA7D1 /* EnvironmentIdentifier.swift */,
 			);
 			path = ConfigFiles;
-			sourceTree = "<group>";
-		};
-		5C099C022B06ABCF00FAA7D1 /* Packages */ = {
-			isa = PBXGroup;
-			children = (
-				5C099C032B06ABCF00FAA7D1 /* IQKeyboardManager */,
-				5C099C042B06ABF200FAA7D1 /* KeychainAccess */,
-				5C099C492B06C30A00FAA7D1 /* lottie-spm */,
-			);
-			name = Packages;
 			sourceTree = "<group>";
 		};
 		5C099C052B06AC6500FAA7D1 /* Frameworks */ = {
@@ -359,7 +346,6 @@
 		5C7BDFA92B062F5900419387 = {
 			isa = PBXGroup;
 			children = (
-				5C099C022B06ABCF00FAA7D1 /* Packages */,
 				5C099BFB2B06A69400FAA7D1 /* ConfigFiles */,
 				5C7BDFB42B062F5900419387 /* CDL */,
 				5C7BDFB32B062F5900419387 /* Products */,
@@ -432,11 +418,11 @@
 				5C4FD1FF2B06A5AA000C39E7 /* FirebasePerformance */,
 				5C4FD2012B06A5AA000C39E7 /* FirebaseStorage */,
 				5C4FD2032B06A5AA000C39E7 /* FirebaseStorageCombine-Community */,
-				5C099C062B06AC7400FAA7D1 /* KeychainAccess */,
-				5C099C082B06AC7900FAA7D1 /* IQKeyboardManagerSwift */,
-				5C099C4A2B06C38600FAA7D1 /* Lottie */,
 				5CB1877E2B07C80B00265F79 /* RealmSwift */,
 				5CB187802B07C90200265F79 /* Realm */,
+				5CFFAEBB2B0A87B700B1A494 /* Lottie */,
+				5CFFAEBE2B0A885400B1A494 /* IQKeyboardManagerSwift */,
+				5CFFAEC12B0A88E900B1A494 /* KeychainAccess */,
 			);
 			productName = CDL;
 			productReference = 5C7BDFB22B062F5900419387 /* CDL.app */;
@@ -469,6 +455,9 @@
 			packageReferences = (
 				5C4FD1DE2B06A5A9000C39E7 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
 				5CB1877B2B07C80A00265F79 /* XCRemoteSwiftPackageReference "realm-swift" */,
+				5CFFAEBA2B0A87B700B1A494 /* XCRemoteSwiftPackageReference "lottie-spm" */,
+				5CFFAEBD2B0A885400B1A494 /* XCRemoteSwiftPackageReference "IQKeyboardManager" */,
+				5CFFAEC02B0A88E900B1A494 /* XCRemoteSwiftPackageReference "KeychainAccess" */,
 			);
 			productRefGroup = 5C7BDFB32B062F5900419387 /* Products */;
 			projectDirPath = "";
@@ -770,21 +759,33 @@
 				kind = branch;
 			};
 		};
+		5CFFAEBA2B0A87B700B1A494 /* XCRemoteSwiftPackageReference "lottie-spm" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/airbnb/lottie-spm.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 4.0.0;
+			};
+		};
+		5CFFAEBD2B0A885400B1A494 /* XCRemoteSwiftPackageReference "IQKeyboardManager" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/hackiftekhar/IQKeyboardManager.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 6.0.0;
+			};
+		};
+		5CFFAEC02B0A88E900B1A494 /* XCRemoteSwiftPackageReference "KeychainAccess" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/kishikawakatsumi/KeychainAccess.git";
+			requirement = {
+				branch = master;
+				kind = branch;
+			};
+		};
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
-		5C099C062B06AC7400FAA7D1 /* KeychainAccess */ = {
-			isa = XCSwiftPackageProductDependency;
-			productName = KeychainAccess;
-		};
-		5C099C082B06AC7900FAA7D1 /* IQKeyboardManagerSwift */ = {
-			isa = XCSwiftPackageProductDependency;
-			productName = IQKeyboardManagerSwift;
-		};
-		5C099C4A2B06C38600FAA7D1 /* Lottie */ = {
-			isa = XCSwiftPackageProductDependency;
-			productName = Lottie;
-		};
 		5C4FD1DF2B06A5A9000C39E7 /* FirebaseAppCheck */ = {
 			isa = XCSwiftPackageProductDependency;
 			package = 5C4FD1DE2B06A5A9000C39E7 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
@@ -879,6 +880,21 @@
 			isa = XCSwiftPackageProductDependency;
 			package = 5CB1877B2B07C80A00265F79 /* XCRemoteSwiftPackageReference "realm-swift" */;
 			productName = Realm;
+		};
+		5CFFAEBB2B0A87B700B1A494 /* Lottie */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 5CFFAEBA2B0A87B700B1A494 /* XCRemoteSwiftPackageReference "lottie-spm" */;
+			productName = Lottie;
+		};
+		5CFFAEBE2B0A885400B1A494 /* IQKeyboardManagerSwift */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 5CFFAEBD2B0A885400B1A494 /* XCRemoteSwiftPackageReference "IQKeyboardManager" */;
+			productName = IQKeyboardManagerSwift;
+		};
+		5CFFAEC12B0A88E900B1A494 /* KeychainAccess */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 5CFFAEC02B0A88E900B1A494 /* XCRemoteSwiftPackageReference "KeychainAccess" */;
+			productName = KeychainAccess;
 		};
 /* End XCSwiftPackageProductDependency section */
 	};
