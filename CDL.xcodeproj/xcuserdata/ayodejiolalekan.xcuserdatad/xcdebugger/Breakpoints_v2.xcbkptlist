@@ -475,8 +475,8 @@
             filePath = "CDL/Core/Network/PostRemote.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "25"
-            endingLineNumber = "25"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
             landmarkName = "getPostData(runCompletionOnUIThread:completion:)"
             landmarkType = "7">
             <Locations>
@@ -561,102 +561,6 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "23BAC0F8-255D-4768-BF91-3E8D677AC92E"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "CDL/Core/Network/PostRemote.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "30"
-            endingLineNumber = "30"
-            landmarkName = "getPostData(runCompletionOnUIThread:completion:)"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "23BAC0F8-255D-4768-BF91-3E8D677AC92E - 8d6fd88cbfd4bb70"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;CDL.GetPostResponse&gt;, Swift.Error&gt;) -&gt; () in CDL.PostRemote.getPostData(runCompletionOnUIThread: Swift.Bool, completion: (Swift.Result&lt;Swift.Array&lt;CDL.GetPostResponse&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
-                  moduleName = "CDL"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/ayodejiolalekan/CDL/CDL/CDL/Core/Network/PostRemote.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "30"
-                  endingLineNumber = "30"
-                  offsetFromSymbolStart = "364">
-               </Location>
-               <Location
-                  uuid = "23BAC0F8-255D-4768-BF91-3E8D677AC92E - 8d6fd88cbfd4bb70"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;CDL.GetPostResponse&gt;, Swift.Error&gt;) -&gt; () in CDL.PostRemote.getPostData(runCompletionOnUIThread: Swift.Bool, completion: (Swift.Result&lt;Swift.Array&lt;CDL.GetPostResponse&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
-                  moduleName = "CDL"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/ayodejiolalekan/CDL/CDL/CDL/Core/Network/PostRemote.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "30"
-                  endingLineNumber = "30"
-                  offsetFromSymbolStart = "652">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "3B8CB82A-23E4-48EA-8A97-6DE233405CA2"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "CDL/Core/Network/PostRemote.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "29"
-            endingLineNumber = "29"
-            landmarkName = "getPostData(runCompletionOnUIThread:completion:)"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "3B8CB82A-23E4-48EA-8A97-6DE233405CA2 - 8d6fd88cbfd4bb57"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;CDL.GetPostResponse&gt;, Swift.Error&gt;) -&gt; () in CDL.PostRemote.getPostData(runCompletionOnUIThread: Swift.Bool, completion: (Swift.Result&lt;Swift.Array&lt;CDL.GetPostResponse&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
-                  moduleName = "CDL"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/ayodejiolalekan/CDL/CDL/CDL/Core/Network/PostRemote.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "29"
-                  endingLineNumber = "29"
-                  offsetFromSymbolStart = "2248">
-               </Location>
-               <Location
-                  uuid = "3B8CB82A-23E4-48EA-8A97-6DE233405CA2 - 8d6fd88cbfd4bb57"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;CDL.GetPostResponse&gt;, Swift.Error&gt;) -&gt; () in CDL.PostRemote.getPostData(runCompletionOnUIThread: Swift.Bool, completion: (Swift.Result&lt;Swift.Array&lt;CDL.GetPostResponse&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
-                  moduleName = "CDL"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/ayodejiolalekan/CDL/CDL/CDL/Core/Network/PostRemote.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "29"
-                  endingLineNumber = "29"
-                  offsetFromSymbolStart = "444">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             uuid = "CD176525-08D1-436D-B52D-8FAF9C9DDE9D"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
@@ -664,8 +568,8 @@
             filePath = "CDL/Core/Network/PostRemote.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "35"
-            endingLineNumber = "35"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
             landmarkName = "getPostData(runCompletionOnUIThread:completion:)"
             landmarkType = "7">
             <Locations>
@@ -714,6 +618,36 @@
                   endingLineNumber = "35"
                   offsetFromSymbolStart = "1216">
                </Location>
+               <Location
+                  uuid = "CD176525-08D1-436D-B52D-8FAF9C9DDE9D - 8d6fd88cbfd4ba68"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;CDL.GetPostResponse&gt;, Swift.Error&gt;) -&gt; () in CDL.PostRemote.getPostData(runCompletionOnUIThread: Swift.Bool, completion: (Swift.Result&lt;Swift.Array&lt;CDL.GetPostResponse&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CDL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayodejiolalekan/CDL/CDL/CDL/Core/Network/PostRemote.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "924">
+               </Location>
+               <Location
+                  uuid = "CD176525-08D1-436D-B52D-8FAF9C9DDE9D - 8d6fd88cbfd4ba2e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;CDL.GetPostResponse&gt;, Swift.Error&gt;) -&gt; () in CDL.PostRemote.getPostData(runCompletionOnUIThread: Swift.Bool, completion: (Swift.Result&lt;Swift.Array&lt;CDL.GetPostResponse&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CDL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayodejiolalekan/CDL/CDL/CDL/Core/Network/PostRemote.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "476">
+               </Location>
             </Locations>
          </BreakpointContent>
       </BreakpointProxy>
@@ -727,8 +661,8 @@
             filePath = "CDL/Core/Network/PostRemote.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "31"
-            endingLineNumber = "31"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
             landmarkName = "getPostData(runCompletionOnUIThread:completion:)"
             landmarkType = "7">
             <Locations>
@@ -761,6 +695,66 @@
                   startingLineNumber = "32"
                   endingLineNumber = "32"
                   offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "BFC0E1F0-8BF3-450E-B146-27459A04F272 - 8d6fd88cbfd4bb15"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;CDL.GetPostResponse&gt;, Swift.Error&gt;) -&gt; () in CDL.PostRemote.getPostData(runCompletionOnUIThread: Swift.Bool, completion: (Swift.Result&lt;Swift.Array&lt;CDL.GetPostResponse&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CDL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayodejiolalekan/CDL/CDL/CDL/Core/Network/PostRemote.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "252">
+               </Location>
+               <Location
+                  uuid = "BFC0E1F0-8BF3-450E-B146-27459A04F272 - a7d8d2ed03c1c940"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Result&lt;Swift.Array&lt;CDL.GetPostResponse&gt;, Swift.Error&gt;) -&gt; () in CDL.PostRemote.getPostData(runCompletionOnUIThread: Swift.Bool, completion: (Swift.Result&lt;Swift.Array&lt;CDL.GetPostResponse&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CDL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayodejiolalekan/CDL/CDL/CDL/Core/Network/PostRemote.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "BFC0E1F0-8BF3-450E-B146-27459A04F272 - 8d6fd88cbfd4bb36"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;CDL.GetPostResponse&gt;, Swift.Error&gt;) -&gt; () in CDL.PostRemote.getPostData(runCompletionOnUIThread: Swift.Bool, completion: (Swift.Result&lt;Swift.Array&lt;CDL.GetPostResponse&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CDL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayodejiolalekan/CDL/CDL/CDL/Core/Network/PostRemote.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "252">
+               </Location>
+               <Location
+                  uuid = "BFC0E1F0-8BF3-450E-B146-27459A04F272 - a7d8d2ed03c1c921"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Result&lt;Swift.Array&lt;CDL.GetPostResponse&gt;, Swift.Error&gt;) -&gt; () in CDL.PostRemote.getPostData(runCompletionOnUIThread: Swift.Bool, completion: (Swift.Result&lt;Swift.Array&lt;CDL.GetPostResponse&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "CDL"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ayodejiolalekan/CDL/CDL/CDL/Core/Network/PostRemote.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "52">
                </Location>
             </Locations>
          </BreakpointContent>

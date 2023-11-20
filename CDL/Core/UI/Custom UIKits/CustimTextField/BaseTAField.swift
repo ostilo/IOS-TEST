@@ -12,8 +12,8 @@ class OldTAFieldConfig: UIView {
     var fieldStrokeColor: UIColor = .darkNeutral40()
     var fieldBgColor: UIColor = .baseWhite()
     var fieldDisabledBgColor: UIColor = .additionals2()
-    var titleTextColor: UIColor = .cdlBlack100()
-    var fieldTextColor: UIColor = .cdlBlack100()
+    var titleTextColor: UIColor = .baseBlack()
+    var fieldTextColor: UIColor = .baseBlack()
     var placeholderTextColor: UIColor = .cdlBlack50()
     var helperTextColor: UIColor = .darkNeutral60()
     

@@ -38,10 +38,7 @@ extension UIColor{
         return UIColor(named: "Additionals2")!
     }
     
-    static func cdlBlack100() -> UIColor{
-        return UIColor(named: "CdlBlack100")!
-    }
-    
+
     
     static func brand5() -> UIColor{
         return UIColor(named: "Brand5")!

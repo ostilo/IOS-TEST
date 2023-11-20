@@ -13,11 +13,9 @@ class PostRemote : NetworkService{
     let realmId = try! Realm()
     var tasks = AllPostRetrived()
     
-    
     init() {
         super.init(baseUrl: "")
     }
-    
     
     func getPostData(runCompletionOnUIThread: Bool, completion: @escaping(Result<[GetPostResponse], Error>) -> Void){
         self.request(route: Route.post, method: Method.get, runCompletionOnUIThread: runCompletionOnUIThread) {
@@ -26,9 +24,9 @@ class PostRemote : NetworkService{
             case .success(let response):
                 completion(.success(response))
                 do {
-                    self.tasks.id = UUID().uuidString
-                    self.tasks.postList.append(objectsIn: response)
-                    try self.realmId.write {
+                    //self.tasks.id = UUID().uuidString
+                    try! self.realmId.write {
+                        self.tasks.postList.append(objectsIn: response)
                         self.realmId.add(self.tasks, update: .all)
                     }
                 } catch let error {
