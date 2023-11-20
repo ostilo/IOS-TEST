@@ -107,7 +107,7 @@ class SignupViewController: TABackViewController {
                                               guard let navigationController = self.navigationController else {return}
                                               self.showSuccessAlert(
                                                   title: "Your Account has been created successfully",
-                                                  msg: "You now have accesss to be a CdKnight."
+                                                  msg: "You now have accesss to be a CDL Knight."
                                               )
                                               
                                               navigationController.popViewController(animated: true)
