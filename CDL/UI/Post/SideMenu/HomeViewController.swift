@@ -166,7 +166,7 @@ extension HomeViewController: UICollectionViewDataSource, UICollectionViewDelega
         let cell = collectionView.dequeueReusableCell(withReuseIdentifier:PostCollectionViewCell.identifier, for: indexPath) as!  PostCollectionViewCell
         cell.transaction = transactions[indexPath.row]
         if indexPath.row == transactions.count - 1{
-            getPostData()
+           // getPostData()
         }
         return cell
     }
